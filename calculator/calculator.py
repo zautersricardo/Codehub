@@ -1,4 +1,4 @@
-#my own code
+#my own code jup
 print('Give a first number=  ')
 number1 =  float(input())
 
